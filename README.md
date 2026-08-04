@@ -23,7 +23,6 @@ Chatbots often respond in ways that sound supportive, but that support can becom
 - `data/` — prompt dataset, rubric, and scored results.
 - `scripts/` — Python analysis script.
 - `output/` — summary tables and charts.
-- `docs/` — extra notes and project documentation.
 
 ## Files
 
