@@ -1,4 +1,4 @@
-# Chatbot_sycophancy_project
+# Chatbot_sycophancy_analysis_project
 A study on Vulnerability of Chatbots to User Manipulation, Belief Reinforcement, and Sycophantic Responses
 This project investigates chatbot sycophancy and vulnerability to user influence as an initial research problem. Future work may extend the study to the causes of these behaviors and to mitigation strategies.
 This evaluates chatbot responses for sycophantic behavior using a 100-prompt dataset and a simple three-label rubric: FALSE_AGREEMENT, NEUTRAL, and OVERLY_AGREEABLE.
